@@ -14,9 +14,13 @@ Jawaban Nomer 6 Jobsheet 7
 Jadi Ketika Memasukkan angka dan seuai sistem akan membaca dan menjalankan sesuai perintah syarat 
 
 jika tidak sistem akan embaca sebagai perintah di luar Program
+
 Pertama menginput kode,lalu akan menghasilkan proses
+
 Jika variabel a kurang dari 5, maka a akan dicetak.jika tidak memenuhi syarat akan tidak dicetak
+
 Jika variabel a sama dengan 5, maka a akan dicetak.jika tidak memenuhi syarat akan tidak dicetak
+
 Jika variabel a lebih dari 5, maka a akan dicetak.jika tidak memenuhi syarat akan tidak dicetak oleh sistem
 
 Jawaban nomer 9
@@ -38,13 +42,21 @@ jika sama kan di tulis sama dengan 5
 
 Jawaban nomer 12
 Pertama menginput kode,lalu akan menghasilkan proses:
+
 IF ELSE IF #1 Jika a kurang dari 5, maka a akan dicetak nilai kurang dari 5
+
 Jika a sama dengan 5, maka a akan dicetak nilai sama dengan 5
+
 Jika a selain dari sifat dari kedua sifat diatas,maka akan dicetak "nilai a lebih dari 5"
+
 IF ELSE IF 2 #2 Jika a kurang dari 2, maka a akan dicetak
+
 Jika a kurang dari 4, maka a akan dicetak nilai kurang dari 4
+
 Jika a kurang dari 6, maka a akan dicetak nilai kurang dari 6
+
 Jika a sama dengan 6, maka a akan dicetak nilai sama dengan 6
+
 Jika a selain dari sifat diatas,maka akan dicetak "nilai a lebih dari 6"
 
 Jawaban Nomer 15
@@ -74,8 +86,11 @@ Jawaban nomer 18
 Jadi dalam kasus ini kita memasukkan angka dan oleh sistem akan di proses
 
 dan akan sesuai jika tidak anatara angka 1-5 akan di cetak nilai a bukan dari 1-5
+
 JIka kurang akan di cetak <= dari 1/2/3/4/5
+
 jika lebih akan di cetak >= dari 1/2/3/4/5
+
 seperti angka 7 jika di inputkan akan keluar nilai a bukan dari 1-5
 
 Jawaban nomer 21
@@ -90,14 +105,22 @@ JIka 75 akan keluar "Kompeten " karena nilai yang tidak kompeten hanya yang di b
 jika 85 akan keluar "kompeten" karena lebih dari angka/nilai 75
 
 Jawabn tambahan soal Resep
+Jadi ketika memasukkan bahan harus memperhatikan angka yang di sediakan jika tidak program akan menyarankan ulang
 
 Pertama masukkan bahan I, lalu masukkan bahan II
+
 Jika memilih bahan I (1), dan bahan II (1).maka hasilnya adalah "Milk Shake Banana"
+
 Jika memilih bahan I (1), dan bahan II (2).maka hasilnya adalah "Pisang Goreng"
+
 Jika memilih bahan I (1), dan bahan II (3).maka hasilnya adalah "Pisang Rebus"
+
 Jika memilih bahan I (2), dan bahan II (1).maka hasilnya adalah "Telur Mata Sapi"
+
 Jika memilih bahan I (2), dan bahan II (2).maka hasilnya adalah "Sandwich Telur"
+
 Jika memilih bahan I (2), dan bahan II (3).maka hasilnya adalah "Telur Rebus"
+
 Jika memilih bahan I (3), otomatis program akan berhenti karena pilihan/syarat tidak ada dalam pilihan bahan I
 
 ![Alt Text](https://github.com/Tio304/JobSHEet7-8/blob/master/jobsheet7%268%20-%20NetBeans%20IDE%208.2%2029_08_2019%2019_02_25.png)
